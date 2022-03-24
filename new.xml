@@ -1,0 +1,34 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Audiobooks</title>
+    <link></link>
+    <language></language>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author></itunes:author>
+    <itunes:summary></itunes:summary>  
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://am3pap003files.storage.live.com/y4m4F8W48sG6O8dER62hl8rM3Gb8ts0rLPqyzSLKs2SaNj4TVvqSih9QVGg0DIRSbdTzaqDLsElItu9ED07sLd5KOpoqCt3MgzEE13TDBjm9uNPrgXD_KmdTJeXn94ziKIc0A0gVbhbY5s6pQR-J6ughD2CJRPJJOi-dYbVW-RMyQAMVqV5oTerFaykh8NNlLKE?width=1400&amp;height=1400&amp;cropmode=none" />
+    <itunes:category text="Technology"/>
+    
+      <item>
+        <title>Spam Nation: The Inside Story of Organized Cybercrime – from Global Epidemic to Your Front Door</title>
+        <itunes:author>Brian Krebs</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary>There is a Threat Lurking Online with the Power to Destroy Your Finances, Steal Your Personal Data, and Endanger Your Life.
+
+In Spam Nation, investigative journalist and cybersecurity expert Brian Krebs unmasks the criminal masterminds driving some of the biggest spam and hacker operations targeting Americans and their bank accounts. Tracing the rise, fall, and alarming resurrection of the digital mafia behind the two largest spam pharmacies - and countless viruses, phishing, and spyware attacks - he delivers the first definitive narrative of the global spam problem and its threat to consumers everywhere.</itunes:summary>
+        <itunes:image href="https://am3pap003files.storage.live.com/y4mruTFgRXR7eV4iaredJumxovcOXrxhNm-8fxMOzEfIP-YZw4rQM7LHT5MNaGPOYm4PBxpZC2IVkWXYOZx7IMHF_n18wOnMYi7ANlaCAc0G75lNasKnqsIldDsJdQefMjyFe2uuqNIQaqxemd5OPzUsgqLpqBvDbDlAhSI5J4pT9pkSX1IpZwuHcn6A73DQhHs?width=2000&amp;height=2000&amp;cropmode=none" />
+        <enclosure url="" length="262522155" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate>Thu Mar 24 2022 11:08:49 GMT+0100 (Central European Standard Time)</pubDate>
+        <itunes:duration>8:46:28</itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
