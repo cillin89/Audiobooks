@@ -2,15 +2,12 @@
   <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Audiobooks</title>
-    <link></link>
-    <language></language>
     <copyright></copyright>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author></itunes:author>
     <itunes:summary></itunes:summary>  
     <itunes:owner>
       <itunes:name></itunes:name>
-      <itunes:email></itunes:email>
     </itunes:owner>
     <itunes:image href="https://am3pap003files.storage.live.com/y4m4F8W48sG6O8dER62hl8rM3Gb8ts0rLPqyzSLKs2SaNj4TVvqSih9QVGg0DIRSbdTzaqDLsElItu9ED07sLd5KOpoqCt3MgzEE13TDBjm9uNPrgXD_KmdTJeXn94ziKIc0A0gVbhbY5s6pQR-J6ughD2CJRPJJOi-dYbVW-RMyQAMVqV5oTerFaykh8NNlLKE?width=1400&amp;height=1400&amp;cropmode=none" />
     <itunes:category text="Technology"/>
@@ -30,7 +27,6 @@ The Silk Road quickly ballooned into a $1.2 billion enterprise, and Ross embrace
 Drawing on exclusive access to key players and two billion digital words and images Ross left behind, Vanity Fair correspondent and New York Times best-selling author Nick Bilton offers a tale filled with twists and turns, lucky breaks, and unbelievable close calls. It&#x27;s a story of the boy next door&#x27;s ambition gone criminal, spurred on by the clash between the new world of libertarian-leaning, anonymous, decentralized web advocates and the old world of government control, order, and the rule of law. Filled with unforgettable characters and capped by an astonishing climax, American Kingpin might be dismissed as too outrageous for fiction. But it&#x27;s all too real.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mj3A9xQiNoaSfmFrbcs-kvG6Y5wYlVxVxIf7ihB_JJTh_7nedtSaZv8Lg1HgItThoGLmc8B7fc7FfwUFjJLWRxMi2IwlyVtEympah0Fns0Ivy5rvBb4p9p7h_EqKF03WMWugcQotDPI8GEEAZsvCiqeDblitp10YLgAldmkv4XAfXEHDsptoSU1nS4Y5Hzr10?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219452&amp;authkey=!AJUz62UErYE8hFM&amp;filedisplay=track.m4a" length="351291416" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>44062</itunes:duration>
       </item>
@@ -48,7 +44,6 @@ With the help of FBI special agents, reformed bank robbers, private security con
 Full of real-life heists both spectacular and absurd, A Burglar&#x27;s Guide to the City ensures that listeners will never enter a bank again without imagining how to loot the vault or walk down the street without planning the perfect getaway.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mMRhhRwlmVHgpglhpK8rE3qzWPUeAmXR5gADnbZe-PgoQoNwgVucSoqtyL1e9ZMya3bSgu_LiszXujlfDmE4mfAorFNR02DGoHAvymA5RhnE5U0p4QF1GxLtlwiYYFUyMctyqSaWSJ_H7oFl_Ok84WtzWh1DGDjlkMWnTan5oZjhMj69OdiHLaGCU9Rb-gP7z?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219449&amp;authkey=!ABLU9bG2iABCg_g&amp;filedisplay=track.m4a" length="236744063" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>28560</itunes:duration>
       </item>
@@ -66,7 +61,6 @@ Immersing themselves in what is then an obscure and sometimes sinister world, th
 From the Silk Road to the halls of the Securities and Exchange Commission to the Facebook boardroom, Bitcoin Billionaires will take us on a wild and surprising ride while illuminating a tantalising economic future. On November 26th, 2017, the Winklevoss brothers became the first bitcoin billionaires. Here&#x27;s the story of how they got there - as only Ben Mezrich could tell it.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4m0hbksslZn322gS5jIHmZKyhGOZSq9Kznh25dtIaGeTzA6PrYjPIgb_44ttqxIRqO1lM9FXF9CsgRQF2AntKLqdsrHZUHImkIODBq6a1AMyKsbgzlSMna4EDYDrudtRx_bfUilbZvfXqJ7iorMzNH_GdWvxaVXAUKQB5g1BmyRv139QCTrB4GBXkpcfaXXbb7?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219453&amp;authkey=!ADrwRnPrhHLVgqg&amp;filedisplay=track.m4a" length="569654494" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>34320</itunes:duration>
       </item>
@@ -88,7 +82,6 @@ After exploring the full implications of a world populated by hyperconnected dev
 From principles for a more resilient Internet of Things to a recipe for sane government regulation and oversight to a better way to understand a truly new environment, Schneier’s vision is required listening for anyone invested in human flourishing.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mw4xMET6_J3A4laINN9gPdZzrjt-idGA_wa9n3XSrpD_xQIXpYO3oNvwogLRmg3hvlFUTUU_iMIRqfq2DTBWNDxcK-HsVQ5U48-R4-rP-YQgRf_ZTkAP8CI3tDqRqCOpSa_Tjda78y0UYf721YNJ8f0dFXBO4RcO-4irA1u3ASww0fxFGcnQAvNa4i8IoBOnK?width=1921&amp;height=1920&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219451&amp;authkey=!AMVVjG-H7IzHiho&amp;filedisplay=track.m4a" length="233724099" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>29196</itunes:duration>
       </item>
@@ -100,7 +93,6 @@ From principles for a more resilient Internet of Things to a recipe for sane gov
         <itunes:summary>Recruited by the US Army and Navy from small towns and elite colleges, more than 10,000 women served as codebreakers during World War II. While their brothers and boyfriends took up arms, these women moved to Washington and learned the meticulous work of codebreaking. Their efforts shortened the war, saved countless lives, and gave them access to careers previously denied to them. A strict vow of secrecy nearly erased their efforts from history; now, through dazzling research and interviews with surviving code girls, best-selling author Liza Mundy brings to life this riveting and vital story of American courage, service, and scientific accomplishment.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mK-nZrXASTEHQavkJQik5zrkHPJnC_VB3mdoetNky1rwYdyJUtM1ae5vXiTRahiKlBRl_FNtfUir6fD6GgTCGYiTUAhg-mwZEA2d-skVAIJpLtyGkd31E1b_j1nufV-DI9r1sZcXfFJbmBSASiK94eewCrtwEqZzDTQuqvfyw1beypD0V4s4OmEaNPSIlv-17?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219454&amp;authkey=!AKJ4eIUzhxw3esA&amp;filedisplay=track.m4a" length="435285698" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>50678</itunes:duration>
       </item>
@@ -124,7 +116,6 @@ In these pages, Wired journalist Kim Zetter draws on her extensive sources and e
 But Countdown to Zero Day ranges far beyond Stuxnet itself.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4maAzNcjdv09Qb2yJJ4Std8ehGdL39C3izj25USlZ0qw3XdQb71PAn89ieSkydgQ9G01iCtJtK60CfK0bjiemAYaWdwCG0cbffb_Eg_viBvk9xQCJOd1N5a1EfH2B_RPPGByBSRBg96VEGhAuTUsGzhdpPF4UEGR_HlXPrc53-IXWFRmHzQc4ctrrETOUTNFRA?width=1800&amp;height=1800&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219455&amp;authkey=!AEb1T5p8OYBrB1Y&amp;filedisplay=track.m4a" length="391695910" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>46842</itunes:duration>
       </item>
@@ -142,7 +133,6 @@ With its origins in the earliest days of the Internet, the cDc is full of oddbal
 Today, the group and its followers are battling electoral misinformation, making personal data safer, and battling to keep technology a force for good instead of for surveillance and oppression. Cult of the Dead Cow shows how governments, corporations, and criminals came to hold immense power over individuals and how we can fight back against them.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4m4OXYbgrgoSAMuRIURNZAeqYUOOXYyakTgUL6dhKRoWgOaYu2OPB20TKOjMp3i0Y4_h7FOhaON87TZT2cGA4spn-tmrLhk7ooWJ6BflyLLYd8r6L4eCnhh8LYX6aZ13hRaQfdUTU49NBID4vY6jrYk_aTp_SPaTnSWYRbYsPtelCjbqZrSkU13ywVo9UoGTdl?width=500&amp;height=500&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219456&amp;authkey=!AIBWrF9hWTV3l9A&amp;filedisplay=track.m4a" length="247277095" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>29469</itunes:duration>
       </item>
@@ -158,7 +148,6 @@ Kaplan probes the inner corridors of the National Security Agency, the beyond-to
 From the 1991 Gulf War to conflicts in Haiti, Serbia, Syria, the former Soviet republics, Iraq, and Iran, where cyber warfare played a significant role, Dark Territory chronicles, in fascinating detail, an unknown past that shines an unsettling light on our future.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mYuZ1yvIgEXpNMNvWr5UzRLwqMdXkY4KrvwXCwrXoA5NTp7c_kMIsdQmifIL-jNd_n1Zm2kspdSk5VT3joJHluhAbMd8Ff0H2bfTbS-_97d6wKguLZ1zIrQzwIaciBvIkLKgjUOXxfGl3K55JQzNO-T0nKmXc5SLO0ZlWK1cvsMHgcFpjxwQNCuZ00ElfFhrn?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219433&amp;authkey=!ANkAD8LnEpB3uI4&amp;filedisplay=track.m4a" length="267475119" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>32550</itunes:duration>
       </item>
@@ -172,7 +161,6 @@ From the 1991 Gulf War to conflicts in Haiti, Serbia, Syria, the former Soviet r
 In Data and Goliath, Schneier reveals the full extent of surveillance, censorship, and propaganda in society today, examining the risks of cybercrime, cyberterrorism, and cyberwar. He shares technological, legal, and social solutions that can help shape a more equal, private, and secure world. This is an audiobook to which everyone with an Internet connection - or bank account or smart device or car, for that matter - needs to listen.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4m1oQ4rEC71urAOvelcL4whT83KlFGlI9KMyCmNcEJkch53T-rGjTtaHVReGxv-srsJ-XuEqna-NdXxEeu03aB7rJv0vbpKPQyLXlg4vHNKzj4deMFGJNomJU3iTkJvAt1reF-KfWu6NtNG523iyki_CkHvF0Z9kMEBMmgbCH6BktZPP0D8lzBAxai7v-hEYw0?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219434&amp;authkey=!AE_YVpuZQP2w0IY&amp;filedisplay=track.m4a" length="287267660" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>33978</itunes:duration>
       </item>
@@ -190,7 +178,6 @@ In this dramatic audiobook, former assistant attorney general John P. Carlin tak
 This firsthand account is both a remarkable untold story and a warning of dangers yet to come.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mMsbK70rD_Pvop8xRupCyi2agiKKW6I0BzKfiEHudNtnS79_qETqIxYTBOBq2pDzOuRwXvovxZfqqY2mQBEWm-k-AU8RINdkGVR0jqdtX1i91ai8e8ct1S-r5IKjriYCJrhHc_xKVJABwoI0gmMCi7OYWCECuzRmfSXHapfqJn2IyL3Fy4n4jc2jtSdbpoSpw?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219435&amp;authkey=!AMYddDfhKkbcMGI&amp;filedisplay=track.m4a" length="292469169" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>61159</itunes:duration>
       </item>
@@ -204,7 +191,6 @@ This firsthand account is both a remarkable untold story and a warning of danger
 Fatal System Error penetrates both the Russian cyber-mob and La Cosa Nostra as the two fight over the Internet&#x27;s massive spoils. The cloak-and-dagger adventure shows why cyber-crime is much worse than you thought and why the Internet might not survive.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4momz5QMltD3D1uGKAZZSXPa2fB43BWpRgVpJU6zAyDerzyRkkQf6k0nn-uj_mUbLOGEGKsLWZBIF9FbpRz3C0ZEjhcql6TUj5I1m5LjQm45OkM_M_7NIIratS4mj3q6BvWZr37WnUjaEZ7ArQomcg6515E6c00AxMCWXV5hqjROywfJ2Y7mcOBjYAOSn7X0ij?width=500&amp;height=500&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219436&amp;authkey=!AKMCd9Im0kUT9wE&amp;filedisplay=track.m4a" length="239939899" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>30187</itunes:duration>
       </item>
@@ -222,7 +208,6 @@ Yet, as ubiquitous as technology seems today, just over the horizon is a tidal w
 With explosive insights based upon a career in law enforcement and counterterrorism, Marc Goodman takes listeners on a vivid journey through the darkest recesses of the Internet.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4myg15uvTrgBCQl88dHI3SULwQ3nKjw2uUxQuJo2uN_XdI1fUgAEV7LDcpWIgwF-MT_A6pTWD-9BYclG527qb01A9gsXxJGmo0cGhH19ECrxxVLwilr59F-mFT6QO4ggNZo8P9M2ZzDjQSPBQpbcib1zX_h6FnUt_fWVGkV2qQj2Hq8ELz1anShjLCF24OMIRF?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219438&amp;authkey=!APAqSLd9okjreRo&amp;filedisplay=track.m4a" length="576826342" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>72595</itunes:duration>
       </item>
@@ -238,7 +223,6 @@ Driven by a powerful urge to accomplish the impossible, Mitnick bypassed securit
 Ghost in the Wires is a thrilling true story of intrigue, suspense, and unbelievable escape and a portrait of a visionary whose creativity, skills, and persistence forced the authorities to rethink the way they pursued him, inspiring ripples that brought permanent changes in the way people and companies protect their most sensitive information.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mGqBzWelHWRev9z7Z_gk-DcU8mZ_Q5LiL0JzodS9hM_pSWj7fZPIA76KKlDH3e7Aa2aNRzxJNVL8PdJcGrYy14Y0ZybNdimUtcFx1k1M2FFVniLH86-4Z14CoyhE1GPhzAuuqQbo9KDUm2wo5yxH6TCLJ625aJS21FvZesb8s_cK00oi_-etvIQ-0by48EFTD?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219437&amp;authkey=!AACS5-2nfF6djiA&amp;filedisplay=track.m4a" length="416023492" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>50486</itunes:duration>
       </item>
@@ -252,7 +236,6 @@ Ghost in the Wires is a thrilling true story of intrigue, suspense, and unbeliev
 Levy profiles the imaginative brainiacs who found clever and unorthodox solutions to computer engineering problems. They had a shared sense of values, known as &quot;the hacker ethic&quot; that still thrives today. Hackers captures a seminal period in recent history when underground activities blazed a trail for today&#x27;s digital world, from MIT students finagling access to clunky computer-card machines to the DIY culture that spawned the Altair and the Apple II.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4m7DrIeAwfTVmgSjCEq2t0IlC7dx2daHYP7kAdxKBLBwdKNx979H1KVAbLXgqT8D-s19aWtzsCpeSx9b9NlW4YgJZyNB4C8EiDTyGPqMbiK6FoK_Gi_tw3WrEcXMURoapq1QjxhZILja5G-HaCh2JbZqIZDStyKB_rI4HZWYyZi4YVMSARhpTWzm0AfBi1TFk5?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219442&amp;authkey=!AHdz9IutA6SqmDE&amp;filedisplay=track.m4a" length="1005783727" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>73453</itunes:duration>
       </item>
@@ -266,7 +249,6 @@ Levy profiles the imaginative brainiacs who found clever and unorthodox solution
 Together, the cybercops lured numerous unsuspecting hackers into their clutches. Yet at every turn, their main quarry displayed an uncanny ability to sniff out their snitches and see through their plots. The culprit they sought was the most unlikely of criminals: a brilliant programmer with a hippie ethic and a supervillain&#x27;s double identity. Together with a smooth-talking con artist, he ran a massive real-world crime ring.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4m_f9PRPb8ZLxZKL4gdwJsnPU-xYzbG8vmQPbyrQfpXzhyErOmcXFn9-4LVnGOWZnriExijqbxiYQMzGkdA6FdZN5pgW1LfTOj33N_IBvIEQxRXOxNTu0AOYDE6KV3GxVid-JvBXBWCUqTkDr5pQM5fJUJJkyxaYqSYyGIRYER9QOMCVdl63nrtqTlLTAsM2-b?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219439&amp;authkey=!AG3cBYYMPm7E5Sg&amp;filedisplay=track.m4a" length="421634960" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>29330</itunes:duration>
       </item>
@@ -284,7 +266,6 @@ P. W. Singer and Emerson Brooking tackle the mind bending questions that arise w
 Delving into the web’s darkest corners, we meet the unexpected warriors of social media, such as the rapper turned jihadist PR czar and the Russian hipsters who wage unceasing infowars against the West. Finally, looking to the crucial years ahead, LikeWar outlines a radical new paradigm for understanding and defending against the unprecedented threats of our networked world.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mxEYJh7sWTOf3MhGNfa6YVxw6HsVMbcqDGec4YBeOKQEsDD5o_4orjPUNZFbYI3YoJ8dd4NfL8K7DEcOHH3Ezrdzi3526GpWLxNhM1zIebJkSbIwRLYio999U8jf1ws23IcRsGUv5RGSZfUaNkqGr3t8k-4xb_6eArmMaQQdVNLBebkerIJkNTd_ImQE8vrO8?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219440&amp;authkey=!AGxFODAot14RF70&amp;filedisplay=track.m4a" length="326954640" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>40870</itunes:duration>
       </item>
@@ -300,7 +281,6 @@ But his whole world changes when he and his friends find themselves caught in th
 When the DHS finally releases them, Marcus discovers that his city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: to take down the DHS himself.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mDtOx53QVaokuH4ZuYJ1YYR8cELig2_aKo2Y7rUVl2xlh5WSj1I4J7756nTHkZra-zCsMNpdjb-KkFR4Unu6X9JmnRcbaorjyRd7EM9_Sfsz7BGHU2oNgKlZpcHczJPxDYL-Wl7VAONAJ7hTrGDIjSekYJ59NoZZhq9xwU3VCUrwh3IhTIzWg4vDUUdgKFW3r?width=1536&amp;height=1536&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219441&amp;authkey=!AP5sZMq0DmA_ULU&amp;filedisplay=track.m4a" length="193051975" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>42871</itunes:duration>
       </item>
@@ -320,7 +300,6 @@ The hackers behind these attacks are quickly gaining a reputation as the most da
 A chilling, globe-spanning detective story, Sandworm considers the danger this force poses to our national security and stability. As the Kremlin&#x27;s role in foreign government manipulation comes into greater focus, Sandworm exposes the realities not just of Russia&#x27;s global digital offensive, but of an era where warfare ceases to be waged on the battlefield. It reveals how the lines between digital and physical conflict, between wartime and peacetime, have begun to blur - with world-shaking implications.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mjTxoNa_C-qsK-k5GG8mbgD_HCQZVvkGnVc95Jh-Owtp1vSIKBcOJitmNjZVMJANzY5ZOscQT4UtkFT_q4RobCUC8EyqpcEHiJMvyiH1ZqGEEaVllRVS6NQWtgZZlSjSaiPy5-WyYSs_8-kQFzg4Ht_uzuJ1EI4Q95vCDAg7tBb9C4rYGRpSzBV-mDyWQim-p?width=1998&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219444&amp;authkey=!AMCbqxCJdBWMp9s&amp;filedisplay=track.m4a" length="672006330" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>43349</itunes:duration>
       </item>
@@ -334,7 +313,6 @@ A chilling, globe-spanning detective story, Sandworm considers the danger this f
 In Spam Nation, investigative journalist and cybersecurity expert Brian Krebs unmasks the criminal masterminds driving some of the biggest spam and hacker operations targeting Americans and their bank accounts. Tracing the rise, fall, and alarming resurrection of the digital mafia behind the two largest spam pharmacies - and countless viruses, phishing, and spyware attacks - he delivers the first definitive narrative of the global spam problem and its threat to consumers everywhere.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mruTFgRXR7eV4iaredJumxovcOXrxhNm-8fxMOzEfIP-YZw4rQM7LHT5MNaGPOYm4PBxpZC2IVkWXYOZx7IMHF_n18wOnMYi7ANlaCAc0G75lNasKnqsIldDsJdQefMjyFe2uuqNIQaqxemd5OPzUsgqLpqBvDbDlAhSI5J4pT9pkSX1IpZwuHcn6A73DQhHs?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219443&amp;authkey=!AGDBaUnfN_w5_vk&amp;filedisplay=track.m4a" length="261502091" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>31588</itunes:duration>
       </item>
@@ -356,7 +334,6 @@ Now those zero days are in the hands of hostile nations and mercenaries who do n
 Filled with spies, hackers, arms dealers and a few unsung heroes, written like a thriller and a reference, This Is How They Tell Me the World Ends is an astonishing feat of journalism. Based on years of reporting and hundreds of interviews, The New York Times reporter Nicole Perlroth lifts the curtain on a market in shadow, revealing the urgent threat faced by us all if we cannot bring the global cyber arms race to heel.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mTsltcyanjcnZH6zjMQWmqKVFDYjZVX1jP-U6VZsr8nEIVQujaeG3OmZQjbNJJ229vEXL5p5dGmbB5IWiBgdPgsmUQ-otQx7QRdZRS6R_Y5Mnj3XNgSRHe252ZnuFPmw4AQeP5Q7bfe4eoYLtm_4f6hv9r24anf2Od1mdt9HulQTy5j7aqKys0iKWvQZWo1Bw?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219446&amp;authkey=!ABXi3oaRUoqKrNw&amp;filedisplay=track.m4a" length="749414975" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>45997</itunes:duration>
       </item>
@@ -378,7 +355,6 @@ This edition features a new preface by the author that analyzes the sobering inc
 “A well-balanced look at this new group of civil libertarians. Written with humor and intelligence, this book is highly recommended.” - Library Journal</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4m-s4muF0WVRci3qpuq6tQczZxBfHQkZz1It60GRBtx6LwkjJaPFAO2FdaLPd3_Sbl1YJoBpcRwIdjkFz6F0Rs1l05P8sMN9TzEu3QkZ3HGEPRGRxamT95YoTIwlN9mDbip0jJBYpJkmHewSh42lvxOst80CS8GXN-Lg4eKwHB0W2xl1QGdj8UCbmQJd_eH0r8?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219447&amp;authkey=!AGGVK4J0PCGl0J0&amp;filedisplay=track.m4a" length="839167543" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>46491</itunes:duration>
       </item>
@@ -398,7 +374,6 @@ Moving from the White House Situation Room to the dens of Chinese government hac
 “Timely and bracing.... With the deep knowledge and bright clarity that have long characterized his work, Sanger recounts the cunning and dangerous development of cyberspace into the global battlefield of the 21st century.” (Washington Post)</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mPiEDXh-wIAKR7bHaRJ_miaJV7dX6rhYF7pdChWdlIj2LBvLX-Ld97Vf_0BthPR8KM7zqGIYOv2XpZ_s1oiV1gJFrMmghrPFQT5CJRWUyMO-imeD5NA62_bsr4FrPPX5GIzjl6yqRNu3afdTh3qdHfkUgGBUM1Xv-yvF32_VfcKFEx1jzX0E_3hjibmX1aJM5?width=1650&amp;height=1650&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219445&amp;authkey=!AFwmZzH7x1s4H54&amp;filedisplay=track.m4a" length="358929416" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>43301</itunes:duration>
       </item>
@@ -420,7 +395,6 @@ Now those zero days are in the hands of hostile nations and mercenaries who do n
 Filled with spies, hackers, arms dealers and a few unsung heroes, written like a thriller and a reference, This Is How They Tell Me the World Ends is an astonishing feat of journalism. Based on years of reporting and hundreds of interviews, The New York Times reporter Nicole Perlroth lifts the curtain on a market in shadow, revealing the urgent threat faced by us all if we cannot bring the global cyber arms race to heel.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mMa5UAdEYP3LsMQpxyQ8Y88ml0GAl-TWw_re44311g6WdA9BaYVBTKUHN1Cmn4W1kWPqOa3X_d-yLoA1pVxLyvihhShmYK4gilBTuazetUbO0p05GKpja9GvDlaIclj2Bj3p7sfyY3NP31QEqksxUaQCqN2hk1iAAkRQwFu6PBrn0nUEuSbrzL9v_Ll4Ur-NU?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219457&amp;authkey=!AC28yJCGpSSbGTU&amp;filedisplay=track.m4a" length="1079821892" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>66208</itunes:duration>
       </item>
@@ -434,7 +408,6 @@ Filled with spies, hackers, arms dealers and a few unsung heroes, written like a
 Surprisingly, the U.S. government was only vaguely aware of the threat that Conficker posed, and the task of mounting resistance to the worm fell to a disparate but gifted group of geeks, Internet entrepreneurs, and computer programmers. But when Conficker’s controllers became aware that their creation was encountering resistance, they began refining the worm’s code to make it more difficult to trace and more powerful, testing the Cabal lock’s unity and resolve. Will the Cabal lock down the worm before it is too late? Game on.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mNWAqxw38hJmdDZ7LPZQZIqCcPxK9crHUFehBX0W8YIdThcHA-hAwjj7L-j79DbQ5mzIh9VYUpNy2rHkR55HOk9yKoJ6fYfrzfK5-IIjOJs1hpLjFh5BgtQP2PnQ73qGbZ3RE1Hg4m8xbIWiGVKODs7lijRDlUR3mA7PTMswg-krvFP6d250nPTSnnMhAma_A?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219448&amp;authkey=!AGnYZQl1Vhzo1I0&amp;filedisplay=track.m4a" length="206222813" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>25737</itunes:duration>
       </item>
@@ -452,7 +425,6 @@ At first, these random computer failures seem like unrelated events. But Jeff Ai
 Written by a global authority on cyber security, Zero Day presents a chilling “what if” scenario that, in a world completely reliant on technology, is more than possible today - it’s a cataclysmic disaster just waiting to happen.</itunes:summary>
         <itunes:image href="https://am3pap003files.storage.live.com/y4mNmcPoGPb86vi4MnbnCq3YWXfnvYFAuLGyAPlKz2FFtg2_oyHaDhzVmzz9Wm6IFZM6hl6up390eNUpEZZFr2CvhSeYv39AGmfZh_HoAv1-75sLOhX1SlXWpqtP23aA2Ql4wux5Ad5N6LbQ69RvcgxT1VfLxiejHwhsrstUKFvKauUR39EJ9NE2XAYnhhC5qkR?width=2000&amp;height=2000&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219450&amp;authkey=!AIvzWLllI1ivTpE&amp;filedisplay=track.m4a" length="592144785" type="audio/mpeg"/>
-        <guid></guid>
         <pubDate>Thu Mar 24 2022 11:53:57 GMT+0100 (Central European Standard Time)</pubDate>
         <itunes:duration>34770</itunes:duration>
       </item>
@@ -466,9 +438,8 @@ Written by a global authority on cyber security, Zero Day presents a chilling �
 In this dazzlingly interdisciplinary work, acclaimed author Brian Christian and cognitive scientist Tom Griffiths show us how the simple, precise algorithms used by computers can also untangle very human questions. Modern life is constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? The authors explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others.
 
 From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of human memory, Algorithms To Live By is full of practical takeaways to help you solve common decision-making problems and illuminate the workings of the human mind.</itunes:summary>
-        <itunes:image href="https://am3pap003files.storage.live.com/y4mM05qpDIKrx8ehv5DWAtKoAgaFZNurvW_ryO9BVRKu7jvX4pT4jDojvSaSs6R70AFrqRzTnIuZe01pAvRzLl2CkQRhBRTG9qyYpZ-KVOvHAwhHIFORvV4U-Hqg7YfX-QnjVOSAy19HJJI8nZjL9nv2csFB6EpcNRbDaMg7G6-k549asSI5R7s9Q9reTYIvBWV?width=2400&height=2400&cropmode=none" />
+        <itunes:image href="https://am3pap003files.storage.live.com/y4mM05qpDIKrx8ehv5DWAtKoAgaFZNurvW_ryO9BVRKu7jvX4pT4jDojvSaSs6R70AFrqRzTnIuZe01pAvRzLl2CkQRhBRTG9qyYpZ-KVOvHAwhHIFORvV4U-Hqg7YfX-QnjVOSAy19HJJI8nZjL9nv2csFB6EpcNRbDaMg7G6-k549asSI5R7s9Q9reTYIvBWV?width=2400&amp;height=2400&amp;cropmode=none" />
         <enclosure url="https://onedrive.live.com/download?resid=3455FE3FC4C110A5%219486&authkey=!AMqbI6h9jGTF6bw&filedisplay=track.m4a" length="344117198" type="audio/mp4"/>
-        <guid></guid>
         <pubDate>Sun, 10 Jul 2022 08:30:57 GMT</pubDate>
         <itunes:duration>42625</itunes:duration>
       </item>
