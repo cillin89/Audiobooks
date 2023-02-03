@@ -549,5 +549,17 @@ Utterly of our time, Tracers in the Dark is a cat-and-mouse story and a tale of 
 			<pubDate>Tue, 05 Oct 2022 06:03:26 GMT</pubDate>
 			<itunes:duration>38804</itunes:duration>
 		</item>
+		<item>
+			<title>This Machine Kills Secrets: How Wikileakers, Cypherpunks, and Hacktivists Aim to Free the World's Information</title>
+			<itunes:author>Andy Greenberg</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The machine that kills secrets is a powerful cryptographic code that hides the identities of leakers and hacktivists as they spill the private files of government agencies and corporations bringing us into a new age of whistle blowing. With unrivaled access to figures like Julian Assange, Daniel Domscheit-Berg, and Jacob Applebaum, investigative journalist Andy Greenberg unveils the group that brought the world WikiLeaks, OpenLeaks, and BalkanLeaks.
+
+This powerful technology has been evolving for decades in the hands of hackers and radical activists, from the libertarian enclaves of Northern California to Berlin to the Balkans. And the secret-killing machine continues to evolve beyond WikiLeaks, as a movement of hacktivists aims to obliterate the world's institutional secrecy. Never have the seemingly powerless had so much power to disembowel big corporations and big government.</itunes:summary>
+			<itunes:image href="https://link.storjshare.io/raw/jxkciskcrwwillismgmo2el34o2a/storage/Audiobooks/This%20Machine%20Kills%20Secrets.jpg" />
+			<enclosure url="https://link.storjshare.io/raw/jvnprso7bm5snrwpxgens7vrp5lq/storage/Audiobooks/This%20Machine%20Kills%20Secrets.m4b" length="373303055" type="audio/mp4"/>
+			<pubDate>Tue, 06 Oct 2022 06:03:26 GMT</pubDate>
+			<itunes:duration>46076</itunes:duration>
+		</item>
 	</channel>
 </rss>
