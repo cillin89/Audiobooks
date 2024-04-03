@@ -7,7 +7,7 @@
 		<description>Audiobooks</description>
 		<copyright></copyright>
 		<language>en-us</language>
-	  	<itunes:explicit>no</itunes:explicit>
+	  	<itunes:explicit>false</itunes:explicit>
 		<itunes:author></itunes:author>
 		<itunes:owner>
         		<itunes:email>podcast@podcast.com</itunes:email>
