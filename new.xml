@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-	<channel>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
 		<title>Audiobooks</title>
 		<link>https://raw.githubusercontent.com</link>
 		<description></description>
 		<copyright></copyright>
 		<language>en-us</language>
 		<itunes:author></itunes:author>
-		<itunes:email></itunes:email>
+		<itunes:owner>
+        		<itunes:email></itunes:email>
+    		</itunes:owner>
 		<itunes:summary></itunes:summary>
 		<itunes:image href="https://link.storjshare.io/raw/jxiuwdrgohnni66opxtkgxufbhda/storage/Audiobooks/coverimage.png" />
 		<itunes:category text="Technology"/>
