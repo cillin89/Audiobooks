@@ -16,7 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         		<itunes:email>podcast@podcast.com</itunes:email>
     		</itunes:owner>
 		<itunes:summary></itunes:summary>
-		<itunes:image href="https://link.storjshare.io/raw/jxiuwdrgohnni66opxtkgxufbhda/storage/Audiobooks/coverimage.png" />
+		<itunes:image href="https://www.dropbox.com/scl/fi/4hwk1dkabskijgrcdph4z/coverimage.png?rlkey=yawujgbq4lr5hc1jjcqier7rf&dl=1" />
 		<itunes:category text="Technology"/>
 		<item>
 			<title>American Kingpin - The Epic Hunt for the Criminal Mastermind Behind the Silk Road</title>
